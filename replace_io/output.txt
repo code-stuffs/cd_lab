@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    cout("Enter number:");
+    cin("%d", &a);
+    return 0;
+}
